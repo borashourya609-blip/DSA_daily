@@ -7,5 +7,6 @@ int main (){
     cout << "difference is = " << (a-b) << endl;
     cout << "product is = " << (a*b) << endl;
     cout << "division is = " << (a/b) << endl ;
+    cout << "modulo = " << (a%b) << endl;
     return 0;
 }
