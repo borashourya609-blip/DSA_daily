@@ -11,7 +11,7 @@ int main (){
         for(int j=1 ; j<=i+1 ;j++){
             cout << j;
         }
-        //numss: i to 1
+        //nums2: i to 1
         for(int j=i ; j>=1 ; j--){
             cout << j;
         }
