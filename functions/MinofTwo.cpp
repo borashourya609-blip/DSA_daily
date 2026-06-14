@@ -11,7 +11,7 @@ int minofTwo(int a , int b){
     
 }
 int main(){
-    cout << "min = " << minofTwo(10,9)<<endl;
+    cout << "min = " << minofTwo(10,9)<<endl; // arguements
 
     return 0;
 }
