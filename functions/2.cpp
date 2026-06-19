@@ -2,7 +2,7 @@
 using namespace std ;
 
 int changeX(int x){
-    x = 2+x;
+    x = 2*x;
     cout << "x = " << x << endl;
 
 }
