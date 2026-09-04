@@ -6,7 +6,7 @@ void f(int i,int N) {
         if(i>N)
         return;
 
-    cout << "raj" << " ";
+    cout << "raj" << " " << endl;
     f(i+1 , N);
     }
 
